@@ -29,3 +29,18 @@ To generate Fibonacci numbers using recursion, you can use the Fibonacci.java cl
 ### 3. Palindrome Checker
 
 The PalindromeChecker.java class checks whether a given string is a palindrome or not. Modify the string you want to check in the code and run the program.
+
+## Contributing
+
+Contributions are welcome! If you want to add new content, improve existing documentation, or fix issues, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/your-feature`.
+3. Make your changes and commit them: `git commit -m 'Add your feature'`.
+4. Push to the branch: `git push origin feature/your-feature`.
+5. Create a pull request.
+
+
+Happy learning and coding!
+
+
